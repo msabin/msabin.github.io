@@ -1,5 +1,0 @@
-#!/bin/bash
-
-python jemdoc.py -c jemdoc_config.conf -o ../html/index.html index
-python jemdoc.py -c jemdoc_config.conf -o ../html/publications.html publications
-python jemdoc.py -c jemdoc_config.conf -o ../html/others.html others
