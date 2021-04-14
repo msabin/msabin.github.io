@@ -1,0 +1,72 @@
+# jemdoc: fwtitle, title{Prashant Nalini Vasudevan}, menu{MENU}{publications.html}
+= Prashant Nalini Vasudevan
+== 665 Soda Hall, somewhere in Berkeley ~\|~ prashvas@berkeley.edu
+
+=== Manuscripts\n
+
+*[https://eprint.iacr.org/2019/659 Tight Verifiable Delay Functions]*\n
+with Nico Döttling, Sanjam Garg, and Giulio Malavolta\n\n
+
+*[https://eccc.weizmann.ac.il/report/2019/038/ Statistical Difference Beyond the Polarizing Regime]*\n
+with Itay Berman, Akshay Degwekar, and Ron D. Rothblum\n\n
+
+=== Published\n
+
+*[https://eprint.iacr.org/2018/1154 Leakage Resilient Secret Sharing and Applications]*\n
+with Akshayaram Srinivasan\n
+CRYPTO 2019 (to appear)\n\n
+
+*[https://eccc.weizmann.ac.il/report/2018/208/ Placing Conditional Disclosure of Secrets in the Communication Complexity Universe]*\n
+with Benny Applebaum\n
+ITCS 2019\n\n
+
+*[https://eccc.weizmann.ac.il/report/2018/085/ XOR Codes and Sparse Random Linear Equations with Noise]*\n
+with Andrej Bogdanov and Manuel Sabin\n
+SODA 2019\n\n
+
+*[https://eccc.weizmann.ac.il/report/2017/172/ From Laconic Zero-Knowledge to Public-Key Cryptography]*\n
+with Itay Berman, Akshay Degwekar, and Ron D. Rothblum\n
+CRYPTO 2018\n
+[files/slides/slides_pkeszk.pdf Slides] from talk at the Galilee Workshop 2018, based on slides by Akshay\n\n
+
+*[https://eprint.iacr.org/2018/559 Proofs of Work from Worst-Case Assumptions]*\n
+with Marshall Ball, Alon Rosen, and Manuel Sabin\n
+CRYPTO 2018\n
+Older version appeared on the Cryptology ePrint Archive as [https://eprint.iacr.org/2017/203 Proofs of Useful Work]\n\n
+
+*[https://eccc.weizmann.ac.il/report/2017/097/ Multi Collision Resistant Hash Functions and their Applications]*\n
+with Itay Berman, Akshay Degwekar, and Ron D. Rothblum\n
+EUROCRYPT 2018\n\n
+
+*[https://eccc.weizmann.ac.il/report/2016/140/ On the Power of Statistical Zero Knowledge]*\n
+with Adam Bouland, Lijie Chen, Dhiraj Holden, and Justin Thaler\n
+FOCS 2017, invited to the special issue of SICOMP for FOCS 2017\n\n
+
+*[https://eccc.weizmann.ac.il/report/2017/038/ Conditional Disclosure of Secrets: Amplification, Closure, Amortization, Lower-Bounds, and Separations]*\n
+with Benny Applebaum, Barak Arkis, and Pavel Raykov\n
+CRYPTO 2017\n
+[files/slides/slides_cds.pdf Slides] from talk at CRYPTO\n\n
+
+*[https://eccc.weizmann.ac.il/report/2017/039/ Average-Case Fine-Grained Hardness]*\n
+with Marshall Ball, Alon Rosen, and Manuel Sabin\n
+STOC 2017\n
+[files/slides/slides_modHard.pdf Slides] and [https://www.youtube.com/watch?v=6FjM1lyZRgQ video] from talk at the University of Waterloo.\n\n
+
+*[https://dl.acm.org/citation.cfm?doid=2976749.2978421 Improvements to Secure Computation with Penalties]*\n
+with Ranjit Kumaresan and Vinod Vaikuntanathan\n
+CCS 2016\n\n
+
+*[https://eprint.iacr.org/2016/580 Fine-Grained Cryptography]*\n
+with Akshay Degwekar and Vinod Vaikuntanathan\n
+CRYPTO 2016\n
+[files/slides/slides_ac0.pdf Slides] from talk at Tel Aviv University\n\n
+
+*[https://eprint.iacr.org/2015/281 Secret Sharing and Statistical Zero Knowledge]*\n
+with Vinod Vaikuntanathan\n
+ASIACRYPT 2015\n\n
+
+
+=== Others\n
+
+*[files/sm_thesis.pdf A Study of Efficient Secret Sharing]*\n
+SM Thesis

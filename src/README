@@ -1,0 +1,8 @@
+
+Using jemdoc with our own configuration file (jemdoc_config.conf) to generate html for our webpage.
+
+To make changes to existing pages, make the changes in the corresponding .jemdoc files and run run_jem. Html files will be generated in ../html/.
+
+To add new page, create a new .jemdoc file and add a corresponding line in run_jem.
+
+To edit appearance, edit ../html/jemeendoc.css.
