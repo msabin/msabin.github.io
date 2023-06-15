@@ -179,6 +179,7 @@ a,
 a:visited {
   color: var(--accent);
   text-decoration: none;
+  text-decoration-line: underline;
 }
 
 a:hover {
@@ -683,4 +684,5 @@ dialog::backdrop {
 
 #name {
   color: var(--text);
+  text-decoration-line: none;
 }
