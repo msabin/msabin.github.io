@@ -30,11 +30,11 @@
     --accent-bg: #202020;
     --text: #d6d5d5;
     --text-light: #ababab;
-    --accent: #c8900b;
+    --accent: #d796d5;
     --code: #f06292;
     --preformatted: #ccc;
     --disabled: #111;
-    --border: rgba(200, 144, 11, 0.73);
+    --border: #d6d5d5;
   }
   /* Add a bit of transparency so light media isn't so glaring in dark mode */
   img,
@@ -259,6 +259,7 @@ header > nav {
   font-size: 1.2rem;
   line-height: 1;
   padding: 0.5rem 0rem .5rem 0rem;
+  margin-top: 0.25rem;
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
   text-align: center;
@@ -286,7 +287,7 @@ header > nav ol li {
 
 header > nav a,
 header > nav a:visited {
-  margin: 0 0rem 0rem 0rem;
+  margin: 0rem 1rem;
   /*border: 1px solid var(--border);*/
   border-radius: var(--standard-border-radius);
   color: var(--accent);
