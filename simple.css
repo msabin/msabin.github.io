@@ -320,7 +320,7 @@ header > nav a[aria-current="page"] {
 aside, details, pre, progress {
   background-color: var(--accent-bg);
   border-radius: var(--standard-border-radius);
-  margin-bottom: 1rem;
+  margin: 1rem;
 }
 
 aside {
