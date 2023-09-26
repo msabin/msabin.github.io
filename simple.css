@@ -335,6 +335,14 @@ aside {
   float: left;
 }
 
+
+.project {
+  display: flex;
+  align-items: center;
+}
+
+
+
 /* Make aside full-width on mobile */
 @media only screen and (max-width: 720px) {
   aside {
