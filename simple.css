@@ -98,9 +98,12 @@ body > header p {
 
 /* Add a little padding to ensure spacing is correct between content and header > nav */
 main#home {
-  padding-top: 2.5rem;
+  padding-top: 1.5rem;
 }
 
+main > p:first-of-type {
+  margin-top: 0;
+}
 
 
 
@@ -260,6 +263,7 @@ header > nav {
   line-height: 1;
   padding: 0.6rem 0rem;
   margin-top: 1rem;
+  margin-bottom: 1rem;
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
   text-align: center;
