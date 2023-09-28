@@ -338,10 +338,23 @@ aside {
 
 .project {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
+  border: solid 1px;
+  border-radius: 1rem;
+  margin: 2rem 0;
 }
 
+.project > div:first-child {
+  padding: 0 1.5rem;
+  margin: 1.5rem 0;
+  border-right: solid 1px;
+  border-radius: 0;
+}
 
+.project p {
+  margin-block-end: 0;
+  margin-inline: 1rem .5rem;
+}
 
 /* Make aside full-width on mobile */
 @media only screen and (max-width: 720px) {
