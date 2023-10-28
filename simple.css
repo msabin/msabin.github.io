@@ -348,11 +348,19 @@ aside {
   margin: 2rem 0;
 }
 
+.project img {
+  width: 350px;
+}
+
 .project > div:first-child {
   padding: 0 1.5rem;
   margin: 1.5rem 0;
   border-right: solid 1px;
   border-radius: 0;
+}
+
+.project > div:last-child {
+  flex: 1; /* Make the second div take up the remaining available space */
 }
 
 .project p {
@@ -361,6 +369,7 @@ aside {
 }
 
 .project h2{
+  width: 156px;
   margin: 0 0rem 3rem 0;
 }
 
