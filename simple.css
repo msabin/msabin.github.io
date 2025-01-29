@@ -373,6 +373,23 @@ aside {
   margin: 0 0rem 3rem 0;
 }
 
+.taught {
+  margin: 1.5rem 0;
+}
+
+.taught .taught-title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.taught-title span:first-child {
+  font-weight: bold;
+}
+
+.taught .taught-summary {
+  font-style: italic;
+}
+
 
 /* Make aside full-width on mobile */
 @media only screen and (max-width: 720px) {
